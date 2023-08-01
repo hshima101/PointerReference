@@ -1,0 +1,17 @@
+#Reference vs Pointers
+Reference 
+* Always needs an initializer
+* Initializers should be I-value
+* cannot be nullptr
+* bound to its referent
+* no storage required, so has same address as that of referent
+* Dereference not required
+* Using references will make permanent changes to values (Swap in the function will reflect in the global scope)
+
+Pointer
+* Initializer is optional
+* Initializer does not need to be I-value
+* Can be nullptr
+* Can point to other variables 
+* Has its own storage so has its own address
+* Requires dereference operator to access the value
