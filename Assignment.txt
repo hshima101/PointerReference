@@ -1,0 +1,7 @@
+Implement The Following Functions
+    void Add(int a, int b, int &result);
+result through a reference parameter
+    void Factorial(int a, int &result);
+result that through a reference parameter
+    void Swap(int &a, int &b);
+reference arguments

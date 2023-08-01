@@ -1,0 +1,3 @@
+/Users/hideoshima/Desktop/c++Excercises /PointerReference/CMakeFiles/exe.dir
+/Users/hideoshima/Desktop/c++Excercises /PointerReference/CMakeFiles/edit_cache.dir
+/Users/hideoshima/Desktop/c++Excercises /PointerReference/CMakeFiles/rebuild_cache.dir
